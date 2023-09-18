@@ -1,6 +1,6 @@
 [submodule "movieist"]
 	path = movieist
-	url = https://github.com/fhsinchy/movieist.git
+	url = https://github.com/danCze/MovieReviewer-movieist.git
 [submodule "movie-gold-v1"]
 	path = movie-gold-v1
-	url = https://github.com/GavinLonDigital/movie-gold-v1.git
+	url = https://github.com/danCze/MovieReviewer-movie-gold-v1.git
